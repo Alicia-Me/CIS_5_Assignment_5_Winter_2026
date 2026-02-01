@@ -81,15 +81,16 @@ void printMenu() {
 	cout << "\n=== Student Record System ===\n";
 	cout << "1. Find student with the highest grade\n";
 	cout << "2. Find the student with the lowest grade\n";
-	cout << "3. Search student by roll number\n";
-	cout << "4. Update student grades\n";
-	cout << "5. Exit\n";
+	cout << "3. Find the average grade in the class\n";
+	cout << "4. Print all the student's ID\n";
+	cout << "5. Print all the student's names\n";
+	cout << "6. Exit\n";
 }
 
 /* TODO: Implement these functions */
 
-// Remember, if you pass an array into a function, it is a pass by reference!
-// Because arrays decay to poitners, so you are getting a pointer to the first element
+// Remeber, if you pass an array into a function, it is a pass by reference!
+// Because arrays decay to pointers, so you are getting a pointer to the first element
 // which allows you to modify the data. 
 
 void highestGrade(Student students[], int count)
