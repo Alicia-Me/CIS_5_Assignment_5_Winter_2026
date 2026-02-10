@@ -1,7 +1,7 @@
 # CIS_5_Assignment_5_Winter_2026
 Building with Structures
 
-YT:
+YT: https://youtu.be/mYinvpYl5bM
 
 Goal: Fill out the menu -> the functions at the bottom to complete the menu!
 
